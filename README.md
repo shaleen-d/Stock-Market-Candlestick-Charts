@@ -5,3 +5,6 @@ The web application can be used to plot candlestick charts for stcok market data
 The data is acquired from Yahoo Finance. The queries to Yahoo finance, as of now, just work for stock market indices such as S&P500 and NASDAQ. This will in future be expanded
 to include all symbols available on Yahoo Finance.
 
+
+
+![Alt text](Sample-charting.jpg )
