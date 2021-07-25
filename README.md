@@ -1,4 +1,4 @@
-# chart_market
+# Charting Web Application
 Web application to charts for stock market data
 
 The web application can be used to plot candlestick charts for stcok market data. It is written in R and uses Plotly package for the charting and Shiny for web deployment.
